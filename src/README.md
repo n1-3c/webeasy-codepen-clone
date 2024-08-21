@@ -1,0 +1,3 @@
+This is a cloned project which was created with the help of a YouTube video from [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
+
+Here is the video [link](https://youtu.be/wcVxX7lu2d4?si=BU0JRt0LGj4TdMmb) and the GitHub Original Repository [Link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2hMTFRIM0tLeFpmb2V2Q1VQYlN3eGVDUEpqd3xBQ3Jtc0trd3lITkhtOGptemNMSkNycVZjQkF4U2VLeVR1SGxPanI0MzFhWnZuaVZ6R05KQzhrSExCei1lRXNOWnVyRW44cEJHTUxMOXQ2YjZyeFZLaHp3ZHRDQXhIQjZYR1EzTk1meEYyRnJ4Z0M4Q0lGbjNDNA&q=https%3A%2F%2Fgithub.com%2FWebDevSimplified%2FReact-CodePen-Clone&v=wcVxX7lu2d4)
