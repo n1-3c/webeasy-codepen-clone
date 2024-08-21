@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+}
+
+.top-pane {
+  background-color: rgb(62, 61, 61);
+}
+
+.pane {
+  height: 50vh;
+  display: flex;
+}
+
+.CodeMirror {
+  height: 100% !important;
+}
+
+.editor-container {
+  flex-grow: 1;
+  flex-basis: 0;
+  display: flex;
+  flex-direction: column;
+  padding: .5rem;
+  background-color: rgb(35, 37, 43);
+}
+
+.editor-container.collapsed {
+  flex-grow: 0;
+}
+
+
+.editor-container.collapsed .CodeMirror-scroll {
+  position: absolute;
+  overflow: hidden !important;
+}
+
+.expand-collapse-button {
+  margin-left: .5rem;
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+
+.editor-title {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(29, 30, 30);
+  color: white;
+  padding: .5rem .5rem .5rem .5rem;
+  border-top-right-radius: .5rem;
+  border-top-left-radius: .5rem;
+}
+
+.code-mirror-wrapper {
+  flex-grow: 1;
+  border-bottom-right-radius: .5rem;
+  border-bottom-left-radius: .5rem;
+  overflow: hidden;
+}
